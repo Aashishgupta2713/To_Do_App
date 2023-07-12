@@ -19,4 +19,4 @@ It downloads all the dependencies used in the app.
 It runs our index.js file
 
 
-### 3) Now, ctrl + click on 'http://localhost:80' shown in terminal
+### 3) Now, ctrl + click on 'http://localhost:4000' shown in terminal
