@@ -3,9 +3,6 @@ A Simple 'To Do App' built with the help of **Node.js**, **Express.js**, **Mongo
 
 It helps you to list down your tasks and delete them when finished.
 
-## Hosted
-https://to-do-prashant-gangwar.herokuapp.com/
-
 ## How to Run this App in your Local System ?
 Clone or Downlaod this repository in your local system.
 
